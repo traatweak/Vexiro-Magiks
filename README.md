@@ -116,5 +116,11 @@ sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.sh
 Terima kasih telah menggunakan project ini
 Jika Anda memiliki pertanyaan atau masukan silakan hubungi
 
-Email magiksvexiro@gmail.com
-YouTube [@traatweak](https://www.youtube.com/@traaweak)
+- Email magiksvexiro@gmail.com
+
+# IKUTI KAMI
+- YouTube [@traatweak](https://www.youtube.com/@traaweak)
+- Telegram [@traatweak](https://t.me/traatweak)
+
+# SITUS KEREN YANG SEDANG KAMI KEMBANGKAN
+- https://framehub.pages.dev/
