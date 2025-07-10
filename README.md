@@ -51,18 +51,18 @@ berikut untuk memulainya
 
 # Aktifkan Wireless Debugging
 
-1 Masih di dalam Opsi Pengembang cari Wireless 
+- Masih di dalam Opsi Pengembang cari Wireless 
 Debugging  
-2 Buka pengaturan Wireless Debugging  
-3 Aktifkan toggle-nya  
-4 Pastikan perangkat terhubung ke jaringan WiFi yang sama
+- Buka pengaturan Wireless Debugging  
+- Aktifkan toggle-nya  
+- Pastikan perangkat terhubung ke jaringan WiFi yang sama
 
 
 
 
 # Langkah 3 — Install dan Aktifkan Brevent
 
-Jika Anda belum memiliki aplikasi Brevent  
+- Jika Anda belum memiliki aplikasi Brevent  
 [Unduh Brevent APK (v4.2.26)](https://www.mediafire.com/file/d2k7c31mitcskdw/Brevent_4.2.26.apk/file)
 
 
@@ -70,17 +70,17 @@ Jika Anda belum memiliki aplikasi Brevent
 
 # Cara Mengaktifkan Brevent via Wireless Debugging
 
-1 Pastikan Wireless Debugging sudah aktif  
-2 Buka aplikasi Brevent  
-3 Aplikasi akan mencoba terhubung secara otomatis menggunakan metode wireless  
-4 Tunggu hingga status menunjukkan berjalan atau berhasil aktif
+- Pastikan Wireless Debugging sudah aktif  
+- Buka aplikasi Brevent  
+- Aplikasi akan mencoba terhubung secara otomatis menggunakan metode wireless  
+- Tunggu hingga status menunjukkan berjalan atau berhasil aktif
 
 
 
 
 # Langkah 4 — Install dan Aktifkan Shizuku
 
-Jika Anda belum memiliki aplikasi Shizuku  
+- Jika Anda belum memiliki aplikasi Shizuku  
 [Unduh Shizuku APK (v13.5.4)](https://www.mediafire.com/file/k0e3k2ibjgxbsud/Shizuku_13.5.4.r1049.0e53409.apk/file)
 
 
@@ -88,23 +88,23 @@ Jika Anda belum memiliki aplikasi Shizuku
 
 # Cara Mengaktifkan Shizuku via Execommand
 
-1. Buka aplikasi Brevent dan masuk ke fitur Execommand  
-2. Salin dan tempel perintah dibawah ke kolom yang tersedia
+- Buka aplikasi Brevent dan masuk ke fitur Execommand  
+- Salin dan tempel perintah dibawah ke kolom yang tersedia
 
 
 ```
 sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.sh
 ```
 
-3 Jalankan perintah tersebut
-4 Tunggu hingga status di Shizuku menunjukkan berhasil terhubung
+- Jalankan perintah tersebut
+- Tunggu hingga status di Shizuku menunjukkan berhasil terhubung
 
 
 
 
 # Langkah Terakhir — Install Vexiro Revolution
 
-Silakan unduh versi terbaru aplikasi Vexiro di bawah ini
+- Silakan unduh versi terbaru aplikasi Vexiro di bawah ini
 [Unduh Vexiro APK (v3.8.0)](https://www.mediafire.com/file/vr98vb61wmjzb89/VexiroRevolution-v3.8.0.apk/file)
 
 
