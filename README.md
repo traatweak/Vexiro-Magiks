@@ -107,6 +107,11 @@ sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.sh
 - Silakan unduh versi terbaru aplikasi Vexiro di bawah ini
 [Latest Version (v3.8.0)](https://www.mediafire.com/file/vr98vb61wmjzb89/VexiroRevolution-v3.8.0.apk/file)
 
+- Jika Perangkat Tidak Support gunakan Versi di bawah ini
+[Latest Version Android +10 (v3.8.0)](https://www.mediafire.com/file/9bb9g3k2ous1m3a/VexiroRevolution-3.8.0_android%252B10.apk/file)
+
+
+
 
 
 
