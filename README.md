@@ -118,9 +118,9 @@ Jika Anda memiliki pertanyaan atau masukan silakan hubungi
 
 - Email magiksvexiro@gmail.com
 
-# IKUTI KAMI
+# Ikuti Kami
 - YouTube [@traatweak](https://www.youtube.com/@traaweak)
 - Telegram [@traatweak](https://t.me/traatweak)
 
-# SITUS KEREN YANG SEDANG KAMI KEMBANGKAN
-- https://framehub.pages.dev/
+# Situs Keren Yang Sedang Kami Kembangkan
+- [Framehub](https://framehub.pages.dev/)
