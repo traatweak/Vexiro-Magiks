@@ -1,61 +1,98 @@
 <p align="center">
-  <img src="icon/icon.png" alt="Frame Hub Logo" width="100" />
+  <img src="icon/icon.png" alt="Vexiro Logo" width="100" />
 </p>
 
-# Vexiro Revolution
-Boost Android Performance Without Root
-Want to maximize your Android's performance without rooting? 
-Vexiro is the solution This powerful booster app comes with 
-flexible modules for performance optimization, UI 
-customization, and a variety of other cool features. Enjoy a 
-smoother, more responsive Android experience—powered by 
-innovative Shizuku integration
+# 🚀 Vexiro Revolution
 
-# Introduction installations
-Enabling Developer Options on Android allows users to access 
-advanced features for debugging customization and app 
-testing Follow the steps below to activate it
+**Tingkatkan Performa Android Tanpa Root**
 
-# Step 1 Enable Developer Options
+Ingin memaksimalkan performa Android tanpa perlu root?  
+**Vexiro** adalah solusinya Aplikasi booster canggih ini 
+dilengkapi dengan modul fleksibel untuk optimasi kinerja
+kustomisasi antarmuka dan berbagai fitur keren lainnya 
+Nikmati pengalaman Android yang lebih mulus dan responsif 
+berkat integrasi inovatif **Shizuku**
 
-1 Open Settings
-Go to the Settings app on your Android device
 
-2 Select About Phone
-Scroll down and tap on About Phone
+## 📥 Pengantar & Instalasi
 
-3 Tap Build Number 7 Times
-Find the Build Number section and tap it 7 times quickly
+Mengaktifkan **Opsi Pengembang** di Android memungkinkan 
+pengguna mengakses fitur lanjutan untuk debugging
+kustomisasi dan pengujian aplikasi Ikuti langkah-langkah 
+berikut untuk memulainya
 
-4 You will see a message saying
-You are now a developer
-If prompted enter your device PIN or Pattern
 
-5 Go Back to the Main Settings Menu
-After activation return to the main Settings page
+## ⚙️ Langkah 1 — Aktifkan Opsi Pengembang
 
-6 Open Developer Options
-You will now see Developer Options in the System section or 
-Additional Settings depending on your Android version
+1. **Buka Pengaturan**  
+2. Masuk ke **Tentang Ponsel**  
+3. Ketuk **Nomor Build** sebanyak **7 kali**  
+4. Jika diminta, masukkan **PIN** atau **Pola**  
+5. Kembali ke menu utama **Pengaturan**  
+6. Buka **Opsi Pengembang** di bagian **Sistem** atau **Pengaturan Tambahan**
 
-# Step 2  Enable USB Debugging and Wireless Debugging
 
-After enabling Developer Options follow the steps below
-to activate USB Debugging and Wireless Debugging on your 
-Android device
+## 🔧 Langkah 2 — Aktifkan USB Debugging & Wireless Debugging
 
-### Enable USB Debugging
+### ✅ Aktifkan USB Debugging
 
-1 Open Settings
-2 Go to System or Additional Settings
-3 Select Developer Options
-4 Scroll down and find USB Debugging
-5 Turn on the USB Debugging switch
-6 If a warning appears tap OK to confirm
+1. Buka **Pengaturan**  
+2. Masuk ke **Sistem** atau **Pengaturan Tambahan**  
+3. Pilih **Opsi Pengembang**  
+4. Gulir ke bawah dan aktifkan **USB Debugging**  
+5. Konfirmasi jika ada peringatan
 
-### Enable Wireless Debugging
+### 📡 Aktifkan Wireless Debugging
 
-1 Inside Developer Options look for Wireless Debugging
-2 Tap to open Wireless Debugging settings
-3 Turn on the Wireless Debugging switch
-4 Make sure your device is connected to the same WiFi network as your computer if prompted
+1. Masih di dalam **Opsi Pengembang**, cari **Wireless Debugging**  
+2. Buka pengaturan Wireless Debugging  
+3. Aktifkan toggle-nya  
+4. Pastikan perangkat terhubung ke **jaringan WiFi yang sama** dengan PC
+
+
+## 📲 Langkah 3 — Install dan Aktifkan Brevent
+
+Jika Anda belum memiliki aplikasi **Brevent**  
+👉 [Unduh Brevent APK (v4.2.26)](https://www.mediafire.com/file/d2k7c31mitcskdw/Brevent_4.2.26.apk/file)
+
+
+### 🛠️ Cara Mengaktifkan Brevent via Wireless Debugging
+
+1. Pastikan **Wireless Debugging** sudah aktif  
+2. Buka aplikasi **Brevent**  
+3. Aplikasi akan mencoba terhubung secara otomatis menggunakan metode wireless  
+4. Tunggu hingga status menunjukkan **berjalan** atau **berhasil aktif**
+
+
+## ⚙️ Langkah 4 — Install dan Aktifkan Shizuku
+
+Jika Anda belum memiliki aplikasi **Shizuku**  
+👉 [Unduh Shizuku APK (v13.5.4)](https://www.mediafire.com/file/k0e3k2ibjgxbsud/Shizuku_13.5.4.r1049.0e53409.apk/file)
+
+### 🧩 Cara Mengaktifkan Shizuku via Execommand
+
+1. Buka aplikasi **Brevent** dan masuk ke fitur **Execommand**  
+2. Salin dan tempel perintah berikut ke kolom yang tersedia:
+
+```bash
+sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.sh
+
+3. Jalankan perintah tersebut
+
+
+4. Tunggu hingga status di Shizuku menunjukkan berhasil terhubung
+
+
+📦 Langkah Terakhir — Install Vexiro Revolution
+
+Silakan unduh versi terbaru aplikasi Vexiro di bawah ini
+👉 Unduh Vexiro Revolution v3.8.0
+
+
+🙏 Terima Kasih
+
+Terima kasih telah menggunakan project ini
+Jika Anda memiliki pertanyaan atau masukan silakan hubungi:
+
+📧 Email magiksvexiro@gmail.com
+📺 YouTube @traaweak
