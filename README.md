@@ -27,13 +27,13 @@ berikut untuk memulainya
 
 # Langkah 1 — Aktifkan Opsi Pengembang
 
-1 Buka Pengaturan**
-2 Masuk ke **Tentang Ponsel**  
-3 Ketuk **Nomor Build** sebanyak **7 kali**  
-4 Jika diminta masukkan **PIN** atau **Pola**  
-5 Kembali ke menu utama **Pengaturan**  
-6 Buka Opsi Pengembang** di bagian **Sistem** atau **
-Pengaturan Tambahan
+- Buka Pengaturan
+- Masuk ke **Tentang Ponsel**  
+- Ketuk **Nomor Build** sebanyak **7 kali**  
+- Jika diminta masukkan **PIN** atau **Pola**  
+- Kembali ke menu utama **Pengaturan**  
+- Buka Opsi Pengembang** di bagian **Sistem** atau **
+- Pengaturan Tambahan
 
 
 
