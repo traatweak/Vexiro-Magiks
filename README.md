@@ -27,7 +27,7 @@ berikut untuk memulainya
 
 # Langkah 1 — Aktifkan Opsi Pengembang
 
-1 Buka Pengaturan
+1 Buka Pengaturan**
 2 Masuk ke **Tentang Ponsel**  
 3 Ketuk **Nomor Build** sebanyak **7 kali**  
 4 Jika diminta masukkan **PIN** atau **Pola**  
