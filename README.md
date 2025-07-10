@@ -13,12 +13,16 @@ Nikmati pengalaman Android yang lebih mulus dan responsif
 berkat integrasi inovatif **Shizuku**
 
 
+
+
 # Pengantar & Instalasi
 
 Mengaktifkan **Opsi Pengembang** di Android memungkinkan 
 pengguna mengakses fitur lanjutan untuk debugging
 kustomisasi dan pengujian aplikasi Ikuti langkah-langkah 
 berikut untuk memulainya
+
+
 
 
 # Langkah 1 — Aktifkan Opsi Pengembang
@@ -32,6 +36,8 @@ berikut untuk memulainya
 Pengaturan Tambahan
 
 
+
+
 # Langkah 2 — Aktifkan USB Debugging & Wireless Debugging
 
 1 Buka **Pengaturan**  
@@ -39,6 +45,8 @@ Pengaturan Tambahan
 3 Pilih **Opsi Pengembang**  
 4 Gulir ke bawah dan aktifkan **USB Debugging**  
 5 Konfirmasi jika ada peringatan
+
+
 
 
 # Aktifkan Wireless Debugging
@@ -50,10 +58,14 @@ Debugging**
 4 Pastikan perangkat terhubung ke **jaringan WiFi yang sama**
 
 
+
+
 # Langkah 3 — Install dan Aktifkan Brevent
 
 Jika Anda belum memiliki aplikasi **Brevent**  
 [Unduh Brevent APK (v4.2.26)](https://www.mediafire.com/file/d2k7c31mitcskdw/Brevent_4.2.26.apk/file)
+
+
 
 
 # Cara Mengaktifkan Brevent via Wireless Debugging
@@ -64,16 +76,21 @@ Jika Anda belum memiliki aplikasi **Brevent**
 4 Tunggu hingga status menunjukkan **berjalan** atau **berhasil aktif**
 
 
-## Langkah 4 — Install dan Aktifkan Shizuku
+
+
+# Langkah 4 — Install dan Aktifkan Shizuku
 
 Jika Anda belum memiliki aplikasi **Shizuku**  
 [Unduh Shizuku APK (v13.5.4)](https://www.mediafire.com/file/k0e3k2ibjgxbsud/Shizuku_13.5.4.r1049.0e53409.apk/file)
+
+
 
 
 # Cara Mengaktifkan Shizuku via Execommand
 
 1. Buka aplikasi **Brevent** dan masuk ke fitur **Execommand**  
 2. Salin dan tempel perintah dibawah ke kolom yang tersedia
+
 
 ```
 sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.sh
@@ -83,10 +100,15 @@ sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.sh
 4 Tunggu hingga status di Shizuku menunjukkan berhasil terhubung
 
 
+
+
 # Langkah Terakhir — Install Vexiro Revolution
 
 Silakan unduh versi terbaru aplikasi Vexiro di bawah ini
 [Unduh Vexiro APK (v3.8.0)](https://www.mediafire.com/file/vr98vb61wmjzb89/VexiroRevolution-v3.8.0.apk/file)
+
+
+
 
 
 # 🙏 Terima Kasih
@@ -94,5 +116,5 @@ Silakan unduh versi terbaru aplikasi Vexiro di bawah ini
 Terima kasih telah menggunakan project ini
 Jika Anda memiliki pertanyaan atau masukan silakan hubungi
 
-📧 Email magiksvexiro@gmail.com
-📺 YouTube @traaweak
+Email magiksvexiro@gmail.com
+YouTube [@traatweak](https://www.youtube.com/@traaweak)
