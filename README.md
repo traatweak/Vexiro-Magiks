@@ -6,18 +6,18 @@
 # Vexiro Revolution
 
 Ingin memaksimalkan performa Android tanpa perlu root?  
-**Vexiro** adalah solusinya Aplikasi booster canggih ini 
+Vexiro adalah solusinya Aplikasi booster canggih ini 
 dilengkapi dengan modul fleksibel untuk optimasi kinerja
 kustomisasi antarmuka dan berbagai fitur keren lainnya 
 Nikmati pengalaman Android yang lebih mulus dan responsif 
-berkat integrasi inovatif **Shizuku**
+berkat integrasi inovatif Shizuku
 
 
 
 
 # Pengantar & Instalasi
 
-Mengaktifkan **Opsi Pengembang** di Android memungkinkan 
+Mengaktifkan Opsi Pengembang di Android memungkinkan 
 pengguna mengakses fitur lanjutan untuk debugging
 kustomisasi dan pengujian aplikasi Ikuti langkah-langkah 
 berikut untuk memulainya
@@ -28,11 +28,11 @@ berikut untuk memulainya
 # Langkah 1 — Aktifkan Opsi Pengembang
 
 - Buka Pengaturan
-- Masuk ke **Tentang Ponsel**  
-- Ketuk **Nomor Build** sebanyak **7 kali**  
-- Jika diminta masukkan **PIN** atau **Pola**  
-- Kembali ke menu utama **Pengaturan**  
-- Buka Opsi Pengembang** di bagian **Sistem** atau **
+- Masuk ke Tentang Ponsel  
+- Ketuk Nomor Build sebanyak 7 kali  
+- Jika diminta masukkan PIN atau Pola  
+- Kembali ke menu utama Pengaturan  
+- Buka Opsi Pengembang di bagian Sistem atau 
 - Pengaturan Tambahan
 
 
@@ -40,29 +40,29 @@ berikut untuk memulainya
 
 # Langkah 2 — Aktifkan USB Debugging & Wireless Debugging
 
-1 Buka **Pengaturan**  
-2 Masuk ke **Sistem** atau **Pengaturan Tambahan**  
-3 Pilih **Opsi Pengembang**  
-4 Gulir ke bawah dan aktifkan **USB Debugging**  
-5 Konfirmasi jika ada peringatan
+-  Buka Pengaturan  
+-  Masuk ke Sistem atau Pengaturan Tambahan  
+-  Pilih Opsi Pengembang  
+-  Gulir ke bawah dan aktifkan USB Debugging  
+-  Konfirmasi jika ada peringatan
 
 
 
 
 # Aktifkan Wireless Debugging
 
-1 Masih di dalam **Opsi Pengembang** cari **Wireless 
-Debugging**  
+1 Masih di dalam Opsi Pengembang cari Wireless 
+Debugging  
 2 Buka pengaturan Wireless Debugging  
 3 Aktifkan toggle-nya  
-4 Pastikan perangkat terhubung ke **jaringan WiFi yang sama**
+4 Pastikan perangkat terhubung ke jaringan WiFi yang sama
 
 
 
 
 # Langkah 3 — Install dan Aktifkan Brevent
 
-Jika Anda belum memiliki aplikasi **Brevent**  
+Jika Anda belum memiliki aplikasi Brevent  
 [Unduh Brevent APK (v4.2.26)](https://www.mediafire.com/file/d2k7c31mitcskdw/Brevent_4.2.26.apk/file)
 
 
@@ -70,17 +70,17 @@ Jika Anda belum memiliki aplikasi **Brevent**
 
 # Cara Mengaktifkan Brevent via Wireless Debugging
 
-1 Pastikan **Wireless Debugging** sudah aktif  
-2 Buka aplikasi **Brevent**  
+1 Pastikan Wireless Debugging sudah aktif  
+2 Buka aplikasi Brevent  
 3 Aplikasi akan mencoba terhubung secara otomatis menggunakan metode wireless  
-4 Tunggu hingga status menunjukkan **berjalan** atau **berhasil aktif**
+4 Tunggu hingga status menunjukkan berjalan atau berhasil aktif
 
 
 
 
 # Langkah 4 — Install dan Aktifkan Shizuku
 
-Jika Anda belum memiliki aplikasi **Shizuku**  
+Jika Anda belum memiliki aplikasi Shizuku  
 [Unduh Shizuku APK (v13.5.4)](https://www.mediafire.com/file/k0e3k2ibjgxbsud/Shizuku_13.5.4.r1049.0e53409.apk/file)
 
 
@@ -88,7 +88,7 @@ Jika Anda belum memiliki aplikasi **Shizuku**
 
 # Cara Mengaktifkan Shizuku via Execommand
 
-1. Buka aplikasi **Brevent** dan masuk ke fitur **Execommand**  
+1. Buka aplikasi Brevent dan masuk ke fitur Execommand  
 2. Salin dan tempel perintah dibawah ke kolom yang tersedia
 
 
