@@ -1,6 +1,7 @@
 <p align="center">
   <img src="icon/icon.png" alt="Frame Hub Logo" width="100" />
 </p>
+
 # Vexiro Revolution
 Boost Android Performance Without Root
 Want to maximize your Android's performance without rooting? 
