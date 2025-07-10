@@ -37,3 +37,25 @@ After activation return to the main Settings page
 6 Open Developer Options
 You will now see Developer Options in the System section or 
 Additional Settings depending on your Android version
+
+# Step 2  Enable USB Debugging and Wireless Debugging
+
+After enabling Developer Options follow the steps below
+to activate USB Debugging and Wireless Debugging on your 
+Android device
+
+### Enable USB Debugging
+
+1 Open Settings
+2 Go to System or Additional Settings
+3 Select Developer Options
+4 Scroll down and find USB Debugging
+5 Turn on the USB Debugging switch
+6 If a warning appears tap OK to confirm
+
+### Enable Wireless Debugging
+
+1 Inside Developer Options look for Wireless Debugging
+2 Tap to open Wireless Debugging settings
+3 Turn on the Wireless Debugging switch
+4 Make sure your device is connected to the same WiFi network as your computer if prompted
