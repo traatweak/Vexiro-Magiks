@@ -105,7 +105,7 @@ sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.sh
 # Langkah Terakhir — Install Vexiro Revolution
 
 - Silakan unduh versi terbaru aplikasi Vexiro di bawah ini
-[Unduh Vexiro APK (v3.8.0)](https://www.mediafire.com/file/vr98vb61wmjzb89/VexiroRevolution-v3.8.0.apk/file)
+[Latest Version (v3.8.0)](https://www.mediafire.com/file/vr98vb61wmjzb89/VexiroRevolution-v3.8.0.apk/file)
 
 
 
