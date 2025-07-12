@@ -131,19 +131,12 @@ Jika Anda memiliki pertanyaan atau masukan silakan hubungi
 - [Framehub](https://framehub.pages.dev/)
 
 # Lisensi
-`
+```
 Hak Cipta © 2025 Vexiro Project  
-Aplikasi ini dirilis di bawah MIT License Anda diperbolehkan 
-untuk menggunakan menyalin mengubah menggabungkan 
-memublikasikan mendistribusikan mensublisensikan dan
-atau menjual salinan perangkat lunak ini dengan syarat 
-bahwa pemberitahuan hak cipta dan izin ini disertakan 
-dalam setiap salinan atau bagian penting dari perangkat 
-lunakPerangkat lunak ini disediakan "sebagaimana adanya" 
-tanpa jaminan apa pun baik tersurat maupun tersirat 
-termasuk namun tidak terbatas pada jaminan diperdagangkan kesesuaian untuk tujuan tertentu dan tidak 
-adanya pelanggaran Gunakan dengan bijak dan tetap 
+Aplikasi ini dirilis di bawah MIT License Anda diperbolehkan untuk menggunakan menyalin mengubah menggabungkan memublikasikan mendistribusikan mensublisensikan danatau menjual salinan perangkat lunak ini dengan syarat bahwa pemberitahuan hak cipta dan izin ini disertakan dalam setiap salinan atau bagian penting dari perangkat 
+lunakPerangkat lunak ini disediakan "sebagaimana adanya" tanpa jaminan apa pun baik tersurat maupun tersirat termasuk namun tidak
+terbatas pada jaminandiperdagangkan kesesuaian untuk tujuan tertentu dan tidak adanya pelanggaran Gunakan dengan bijak dan tetap 
 hormati karya pengembang aslinya Untuk informasi lebih lanjut 
 silakan lihat file LICENSE atau hubungi kami melalui halaman 
 resmi proyek ini
-`
+```
