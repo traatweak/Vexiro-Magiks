@@ -37,5 +37,8 @@ Jika Anda memiliki pertanyaan atau masukan silakan hubungi
 
 # Lisensi
 ```
-2025 Vexiro Revolution Dikembangkan oleh @traatweak Aplikasi tersedia di bawah lisensi MIT Penggunaan aplikasi ini diatur oleh Kebijakan Privasi dan Syarat & Ketentuan Terakhir diperbarui pada 29 Juni 2025
+2025 Vexiro Revolution Dikembangkan oleh @traatweak 
+Aplikasi tersedia di bawah lisensi MIT Penggunaan aplikasi 
+ini diatur oleh Kebijakan Privasi dan Syarat & Ketentuan 
+Terakhir diperbarui pada 29 Juni 2025
 ```
