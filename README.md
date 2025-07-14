@@ -17,7 +17,7 @@ berkat integrasi inovatif Shizuku
 
 # Pengantar & Instalasi
 - instruction instalasi [](https://instructionsvexiro.pages.dev/web-root/index.html)
-- persyaratan perangkat [](https://instructionsvexiro.pages.dev/web-root/persyaratan.html)
+- persyaratan perangkat [persyaratan perangkat](https://instructionsvexiro.pages.dev/web-root/persyaratan.html)
 
 
 
