@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Persyaratan Perangkat</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 20px;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #0d1117;
+      color: #c9d1d9;
+      line-height: 1.7;
+    }
+
+    h1 {
+      font-size: 1.8em;
+      color: #f0f6fc;
+      margin-bottom: 0.8em;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0 0 2em 0;
+    }
+
+    li {
+      margin-bottom: 0.6em;
+      padding-left: 1.2em;
+      position: relative;
+    }
+
+    li::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 0.6em;
+      width: 6px;
+      height: 6px;
+      background-color: #58a6ff;
+      border-radius: 50%;
+    }
+
+    .label {
+      font-weight: 600;
+      color: #58a6ff;
+    }
+
+    .note {
+      background-color: #161b22;
+      border-left: 4px solid #58a6ff;
+      padding: 1em;
+      border-radius: 6px;
+      color: #f0f6fc;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Persyaratan Perangkat</h1>
+
+  <ul>
+    <li><span class="label">Minimum Android Version</span> Android 11</li>
+    <li><span class="label">Target SDK Version</span> 28 Android 9</li>
+    <li><span class="label">Minimum SDK</span> 19 Android 4.3</li>
+    <li><span class="label">Aktifkan</span> Debugging USB dan Debugging Nirkabel</li>
+    <li><span class="label">Berikan Izin</span> Akses Seluruh Penyimpanan</li>
+    <li><span class="label">Dukungan</span> Shizuku API</li>
+  </ul>
+
+  <div class="note">
+    Pastikan tema perangkat diatur ke tema gelap karena aplikasi ini tidak mendukung tampilan tema terang
+  </div>
+
+</body>
+</html>

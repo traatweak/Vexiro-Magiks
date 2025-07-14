@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Pengantar & Instalasi Vexiro</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #0d1117;
+      color: #c9d1d9;
+      line-height: 1.7;
+      padding: 20px;
+    }
+    h1, h2, h3 {
+      color: #f0f6fc;
+    }
+    a {
+      color: #58a6ff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .section {
+      margin-bottom: 2em;
+    }
+    ul {
+      padding-left: 1.2em;
+    }
+    li {
+      margin-bottom: 0.4em;
+    }
+    code {
+      background: #161b22;
+      padding: 0.2em 0.4em;
+      border-radius: 6px;
+      font-family: monospace;
+    }
+    pre {
+      background: #161b22;
+      padding: 1em;
+      border-radius: 6px;
+      overflow-x: auto;
+      color: #c9d1d9;
+    }
+    .highlight {
+      color: #58a6ff;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>intruksi Instalasi Vexiro Revolution</h1>
+
+  <div class="section">
+    <p>
+      Mengaktifkan <strong>Opsi Pengembang</strong> di Android memungkinkan pengguna mengakses fitur lanjutan untuk debugging, kustomisasi, dan pengujian aplikasi. Ikuti langkah-langkah berikut untuk memulainya.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>Langkah 1 — Aktifkan Opsi Pengembang</h2>
+    <ul>
+      <li>Buka <span class="highlight">Pengaturan</span></li>
+      <li>Masuk ke <span class="highlight">Tentang Ponsel</span></li>
+      <li>Ketuk <span class="highlight">Nomor Build</span> sebanyak 7 kali</li>
+      <li>Masukkan PIN atau Pola jika diminta</li>
+      <li>Kembali ke menu utama Pengaturan</li>
+      <li>Buka <span class="highlight">Opsi Pengembang</span> di bagian <em>Sistem</em> atau <em>Pengaturan Tambahan</em></li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Langkah 2 — Aktifkan USB Debugging & Wireless Debugging</h2>
+    <ul>
+      <li>Buka <span class="highlight">Pengaturan</span></li>
+      <li>Masuk ke <em>Sistem</em> atau <em>Pengaturan Tambahan</em></li>
+      <li>Pilih <strong>Opsi Pengembang</strong></li>
+      <li>Gulir ke bawah dan aktifkan <strong>USB Debugging</strong></li>
+      <li>Konfirmasi jika muncul peringatan</li>
+    </ul>
+    <h3>Aktifkan Wireless Debugging</h3>
+    <ul>
+      <li>Masih di dalam <strong>Opsi Pengembang</strong>, cari <strong>Wireless Debugging</strong></li>
+      <li>Buka pengaturannya</li>
+      <li>Aktifkan toggle-nya</li>
+      <li>Pastikan perangkat terhubung ke jaringan WiFi yang sama</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Langkah 3 — Install & Aktifkan Brevent</h2>
+    <p>Jika Anda belum memiliki aplikasi Brevent:</p>
+    <p><a href="https://www.mediafire.com/file/d2k7c31mitcskdw/Brevent_4.2.26.apk/file" target="_blank">Unduh Brevent APK (v4.2.26)</a></p>
+
+    <h3>Cara Aktifkan Brevent via Wireless Debugging</h3>
+    <ul>
+      <li>Pastikan Wireless Debugging sudah aktif</li>
+      <li>Buka aplikasi Brevent</li>
+      <li>Aplikasi akan mencoba terhubung otomatis menggunakan metode wireless</li>
+      <li>Tunggu hingga status menunjukkan "berjalan" atau "berhasil aktif"</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Langkah 4 — Install & Aktifkan Shizuku</h2>
+    <p>Jika Anda belum memiliki aplikasi Shizuku:</p>
+    <p><a href="https://www.mediafire.com/file/k0e3k2ibjgxbsud/Shizuku_13.5.4.r1049.0e53409.apk/file" target="_blank">Unduh Shizuku APK (v13.5.4)</a></p>
+
+    <h3>Cara Aktifkan Shizuku via Execommand</h3>
+    <ul>
+      <li>Buka aplikasi Brevent dan masuk ke fitur <strong>Execommand</strong></li>
+      <li>Salin dan tempel perintah berikut ke kolom yang tersedia:</li>
+    </ul>
+    <pre><code>sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.sh</code></pre>
+    <ul>
+      <li>Jalankan perintah tersebut</li>
+      <li>Tunggu hingga status di Shizuku menunjukkan "berhasil terhubung"</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Langkah Terakhir — Install Vexiro Revolution</h2>
+    <ul>
+      <li><a href="https://www.mediafire.com/file/vr98vb61wmjzb89/VexiroRevolution-v3.8.0.apk/file" target="_blank">Unduh Versi Terbaru (v3.8.0)</a></li>
+      <li>Jika perangkat Anda tidak support, gunakan versi di bawah:</li>
+      <li><a href="https://www.mediafire.com/file/9bb9g3k2ous1m3a/VexiroRevolution-3.8.0_android%252B10.apk/file" target="_blank">Versi untuk Android +10 (v3.8.0)</a></li>
+    </ul>
+  </div>
+
+</body>
+</html>
