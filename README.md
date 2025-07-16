@@ -14,19 +14,19 @@ berkat integrasi inovatif Shizuku
 # Tampilan Aplikasi
 
 <p align="center">
-  <img src="img/home.png" alt="Tampilan Home Vexiro" width="600" />
+  <img src="img/home.png" alt="" width="600" />
 </p>
-<p align="center"><b>Tampilan Antarmuka - Home</b></p>
+<p align="center"><b></b></p>
 
 <p align="center">
   <img src="img/setting.png" alt="Tampilan Setting Vexiro" width="600" />
 </p>
-<p align="center"><b>Tampilan Antarmuka - Setting</b></p>
+<p align="center"><b></b></p>
 
 <p align="center">
   <img src="img/module.png" alt="Tampilan Module Vexiro" width="600" />
 </p>
-<p align="center"><b>Tampilan Antarmuka - Module</b></p>
+<p align="center"><b></b></p>
 
 # Pengantar & Instalasi
 
